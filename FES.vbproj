@@ -1,0 +1,423 @@
+<VisualStudioProject>
+    <VisualBasic
+        ProjectType = "Web"
+        ProductVersion = "7.0.9466"
+        SchemaVersion = "1.0"
+        ProjectGuid = "{F8E68D3F-D4ED-45EE-B9BF-8FE5CE302961}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "FES"
+                AssemblyOriginatorKeyFile = ""
+                AssemblyOriginatorKeyMode = "None"
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "Library"
+                OptionCompare = "Binary"
+                OptionExplicit = "On"
+                OptionStrict = "Off"
+                RootNamespace = "FES"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "Release"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "false"
+                    DefineTrace = "true"
+                    DebugSymbols = "false"
+                    IncrementalBuild = "false"
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                />
+                <Reference
+                    Name = "System.Web"
+                    AssemblyName = "System.Web"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+            </References>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+                <Import Namespace = "System" />
+                <Import Namespace = "System.Collections" />
+                <Import Namespace = "System.Configuration" />
+                <Import Namespace = "System.Data" />
+                <Import Namespace = "System.Drawing" />
+                <Import Namespace = "System.Web" />
+                <Import Namespace = "System.Web.UI" />
+                <Import Namespace = "System.Web.UI.HtmlControls" />
+                <Import Namespace = "System.Web.UI.WebControls" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AssemblyInfo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "default.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "default.aspx.vb"
+                    DependentUpon = "default.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "default.aspx.resx"
+                    DependentUpon = "default.aspx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "FES.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "FES.vsdisco"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Global.asax"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Global.asax.vb"
+                    DependentUpon = "Global.asax"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Global.asax.resx"
+                    DependentUpon = "Global.asax.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Web.config"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\bodyBG.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\Burke.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\FESHeader_r1_c1.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\FESHeader_r1_c2.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\FESHeader_r1_c3.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\FESHeader_r2_c1.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\Home.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\Scott.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\Services.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\AboutUs.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\AboutUs.ascx.vb"
+                    DependentUpon = "AboutUs.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\AboutUs.ascx.resx"
+                    DependentUpon = "AboutUs.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Arsenic.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Arsenic.ascx.vb"
+                    DependentUpon = "Arsenic.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Arsenic.ascx.resx"
+                    DependentUpon = "Arsenic.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Asbestos.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Asbestos.ascx.vb"
+                    DependentUpon = "Asbestos.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Asbestos.ascx.resx"
+                    DependentUpon = "Asbestos.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\ContactUs.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\ContactUs.ascx.vb"
+                    DependentUpon = "ContactUs.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\ContactUs.ascx.resx"
+                    DependentUpon = "ContactUs.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Header.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Header.ascx.vb"
+                    DependentUpon = "Header.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Header.ascx.resx"
+                    DependentUpon = "Header.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Home.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Home.ascx.vb"
+                    DependentUpon = "Home.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Home.ascx.resx"
+                    DependentUpon = "Home.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\IAQ.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\IAQ.ascx.vb"
+                    DependentUpon = "IAQ.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\IAQ.ascx.resx"
+                    DependentUpon = "IAQ.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Lead.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Lead.ascx.vb"
+                    DependentUpon = "Lead.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Lead.ascx.resx"
+                    DependentUpon = "Lead.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Mercury.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Mercury.ascx.vb"
+                    DependentUpon = "Mercury.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Mercury.ascx.resx"
+                    DependentUpon = "Mercury.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Mold.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Mold.ascx.vb"
+                    DependentUpon = "Mold.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Mold.ascx.resx"
+                    DependentUpon = "Mold.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\OurLaboratory.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\OurLaboratory.ascx.vb"
+                    DependentUpon = "OurLaboratory.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\OurLaboratory.ascx.resx"
+                    DependentUpon = "OurLaboratory.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\OurServices.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\OurServices.ascx.vb"
+                    DependentUpon = "OurServices.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\OurServices.ascx.resx"
+                    DependentUpon = "OurServices.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Radon.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Radon.ascx.vb"
+                    DependentUpon = "Radon.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Radon.ascx.resx"
+                    DependentUpon = "Radon.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\ServiceList.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\ServiceList.ascx.vb"
+                    DependentUpon = "ServiceList.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\ServiceList.ascx.resx"
+                    DependentUpon = "ServiceList.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Silica.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Silica.ascx.vb"
+                    DependentUpon = "Silica.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Silica.ascx.resx"
+                    DependentUpon = "Silica.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserControls\Training.ascx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "UserControls\Training.ascx.vb"
+                    DependentUpon = "Training.ascx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserControls\Training.ascx.resx"
+                    DependentUpon = "Training.ascx.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+            </Include>
+        </Files>
+    </VisualBasic>
+</VisualStudioProject>
+

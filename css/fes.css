@@ -1,0 +1,22 @@
+﻿.body_normal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #27582F;
+}
+.body_header1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	color: #27582F;
+}
+.nav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #27582F;
+}
+.picturenav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #142E18;
+}

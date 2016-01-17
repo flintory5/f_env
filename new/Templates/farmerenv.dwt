@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Farmer Environmental Services, LLC</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-color: #24512C;
+}
+.style3 {font-size: x-small; color: #FFFFFF; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style5 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; font-weight: bold; color: #27582F; }
+-->
+</style>
+<link href="../css/fes.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #27582F;
+}
+.style6 {color: #FFFFFF}
+a:link {
+	color: #27582F;
+}
+a:visited {
+	color: #27582F;
+}
+a:hover {
+	color: #C0AD00;
+}
+a:active {
+	color: #C0AD00;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body  onload="MM_preloadImages('../images/nav_white_r1_c1.jpg','../images/nav_white_r1_c2.jpg','../images/nav_white_r1_c3.jpg','../images/nav_white_r1_c4.jpg','../images/nav_white_r1_c7.jpg','../images/nav_white_r1_c10.jpg')">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="800">
+<!-- fwtable fwsrc="" fwbase="template_1.jpg" fwstyle="Dreamweaver" fwdocid = "1571786841" fwnested="0" -->
+  <tr>
+   <td><img src="spacer.gif" width="130" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="96" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="85" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="89" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="52" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="71" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="13" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="100" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="9" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="93" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="62" height="1" border="0" alt="" /></td>
+   <td><img src="spacer.gif" width="1" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td rowspan="2" colspan="4"><a href="index.html"><img name="template_1_r1_c1" src="../images/template_1_r1_c1.jpg" width="400" height="93" border="0" id="template_1_r1_c1" alt="" /></a></td>
+   <td rowspan="2"><img name="template_1_r1_c5" src="../images/template_1_r1_c5.jpg" width="52" height="93" border="0" id="template_1_r1_c5" alt="" /></td>
+   <td colspan="2"><a href="aboutus.html"><img name="template_1_r1_c6" src="../images/template_1_r1_c6.jpg" width="84" height="28" border="0" id="template_1_r1_c6" alt="" /></a></td>
+   <td><a href="ourteam.html"><img name="template_1_r1_c8" src="../images/template_1_r1_c8.jpg" width="100" height="28" border="0" id="template_1_r1_c8" alt="" /></a></td>
+   <td colspan="2"><a href="contactus.html"><img name="template_1_r1_c9" src="../images/template_1_r1_c9.jpg" width="102" height="28" border="0" id="template_1_r1_c9" alt="" /></a></td>
+   <td><a href="links.html"><img name="template_1_r1_c11" src="../images/template_1_r1_c11.jpg" width="62" height="28" border="0" id="template_1_r1_c11" alt="" /></a></td>
+   <td><img src="spacer.gif" width="1" height="28" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="6"><img name="template_1_r2_c6" src="../images/template_1_r2_c6.jpg" width="348" height="65" border="0" id="template_1_r2_c6" alt="" /></td>
+   <td><img src="spacer.gif" width="1" height="65" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="4"><img name="template_1_r3_c1" src="../images/template_1_r3_c1.jpg" width="400" height="109" border="0" id="template_1_r3_c1" alt="" /></td>
+   <td colspan="7"><img name="template_1_r3_c5" src="../images/template_1_r3_c5.jpg" width="400" height="109" border="0" id="template_1_r3_c5" alt="" /></td>
+   <td><img src="spacer.gif" width="1" height="109" border="0" alt="" /></td>
+  </tr>
+
+  <tr>
+   <td colspan="11"><a href="asbestos.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image27','','../images/nav_white_r1_c1.jpg',1)"><img src="../images/template_1_r4_c1.jpg" name="Image27"  height="39" border="0" id="Image27" /></a><a href="mold.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image28','','../images/nav_white_r1_c2.jpg',1)"><img src="../images/template_1_r4_c2.jpg" name="Image28"  height="39" border="0" id="Image28" /></a><a href="lead.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image29','','../images/nav_white_r1_c3.jpg',1)"><img src="../images/template_1_r4_c3.jpg" name="Image29"  height="39" border="0" id="Image29" /></a><a href="indoorairquality.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image30','','../images/nav_white_r1_c4.jpg',1)"><img src="../images/template_1_r4_c4.jpg" name="Image30" height="39" border="0" id="Image30" /></a><a href="training.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','../images/nav_white_r1_c7.jpg',1)"><img src="../images/template_1_r4_c7.jpg" name="Image31" height="39" border="0" id="Image31" /></a><a href="radon.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image32','','../images/nav_white_r1_c10.jpg',1)"><img src="../images/template_1_r4_c10.jpg" name="Image32" height="39" border="0" id="Image32" /></a>  </tr>
+  <tr>
+   <td height="400" colspan="11" valign="top" bgcolor="#FFFFFF"><p>&nbsp;</p>
+     <table width="800" border="0" cellpadding="0" cellspacing="0">
+       <tr>
+         <td>&nbsp;</td>
+         <td><!-- TemplateBeginEditable name="body" --><!-- TemplateEndEditable --></td>
+         <td>&nbsp;</td>
+       </tr>
+    </table>     <p>&nbsp;</p></td>
+   <td><img src="spacer.gif" width="1" height="359" border="0" alt="" /></td>
+  </tr>
+<tr>
+    <td colspan="4" bgcolor="#C0AD00"><span class="style5 style6"><strong>Company Headquarters:</strong><br />
+      </span><span class="style3 style2">Edwardsville, IL<br />
+    618.656.6988</span></td>
+    <td colspan="7" bgcolor="#C0AD00"><span class="style3"><strong>Offices in :</strong><br />
+      Carbondale, IL<br />
+    Springfield, IL</span> </td>
+  </tr>
+  <tr>
+    <td height="25" colspan="11" valign="middle" bgcolor="#FFFFFF"><div align="center">
+      <p class="style5"><span class="style6"><a href="asbestos.html">Asbestos Management</a> | <a href="mold.html">Mold</a> |<a href="lead.html"> Lead </a>| <a href="indoorairquality.html">Indoor Air Quality</a> | <a href="training.html">Training</a> | <a href="radon.html">Radon</a> | <a href="aboutus.html">About Us</a> | <a href="ourteam.html">Our Team</a> | <a href="contactus.html">Contact Us</a> | <a href="links.html">Links</a></span></p>
+    </div></td>
+  </tr>  
+</table>
+</body>
+</html>
